@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xHearFire.
 - 👀 I’m interested in Cybersecurity, Video Games and recently Artificial Intelligence.
-- 🌱 I’m currently learning programming languages ​​such as Java, C++, Python and interested in learning how to create video games and web sites.
+- 🌱 I’m currently learning programming languages ​​such as Java, and Python and interested in learning how to create video games and web sites.
 - 💞️ I’m looking to collaborate on projects related to video games or web pages.
 - 📫 How to reach me send me a message by email
 - 😄 Pronouns: he/him
